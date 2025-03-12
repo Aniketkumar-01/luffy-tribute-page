@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(189, 136, 99);
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+h1 {
+  text-align: center;
+  color: #3f34ff;
+}
+
+figure {
+  text-align: center;
+}
